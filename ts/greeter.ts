@@ -13,7 +13,7 @@ class Student {
  }
 }
 
-var user = new Student("周", "智障啊");
+var user = new Student("周", "智障");
 
 //document.body.innerHTML = user.greeter();
 document.body.innerHTML = user.greeter();
